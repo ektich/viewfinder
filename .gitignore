@@ -1,0 +1,5 @@
+# on Mac, compiled objects end up in the dSYM folder
+*.dSYM/
+
+# compiled binary
+main
