@@ -1,5 +1,11 @@
 # on Mac, compiled objects end up in the dSYM folder
 *.dSYM/
 
+# data directory contains NASADEM files
+data/
+
 # compiled binary
 main
+
+# output
+output.ppm
